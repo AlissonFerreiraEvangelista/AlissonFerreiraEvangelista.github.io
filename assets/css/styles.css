@@ -241,7 +241,7 @@ img{
 }
 .home__blob-img{
   width: 360px;
-  height: 360px;
+  height: 270px;
 }
 
 
@@ -473,6 +473,7 @@ img{
   .home {
     row-gap: 2rem;
   }
+  
   .home__img {
     width: 200px;
     margin-bottom: 1rem;
@@ -493,6 +494,7 @@ img{
   .home {
     padding: 4rem 0 2rem;
   }
+  
   .home__social {
     padding-top: 0;
     padding-bottom: 2.5rem;

@@ -598,6 +598,19 @@ img{
   .descricao-card{
     font-size: 1rem;
   }
+  .section__subtitle{
+    font-size: 1.2rem;
+  }
+  .skills_name{
+    font-size: 1.5rem;
+  }
+  .skills_title{
+    font-size: 2rem;
+  }
+  .skills__level{
+    font-size: .85rem;
+  }
+  
 }
 
 
